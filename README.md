@@ -1,1 +1,2 @@
 # customer-Churn-predictions
+📉 Customer-Churn-Prediction — A machine learning project aimed at predicting whether a customer is likely to discontinue using a company's product or service. The repository covers the complete process from data exploration and preprocessing to feature engineering, model building, and evaluation. By identifying key factors that drive customer churn, this project helps businesses proactively design retention strategies and reduce customer attrition, ultimately supporting more informed, data-driven decision-making.
